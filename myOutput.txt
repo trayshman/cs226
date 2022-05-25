@@ -1,0 +1,2 @@
+Average of integers read from file /Users/ryanjones/Desktop/cs226/lotsOfInts.txt
+50.2661

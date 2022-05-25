@@ -1,0 +1,25 @@
+Rectangle	orange	43	48
+Circle	blue	46	
+Circle	orange	40	
+Rectangle	blue	36	44
+Circle	red	49	
+Rectangle	orange	52	81
+Circle	blue	49	
+Circle	yellow	20	
+Rectangle	yellow	41	54
+Circle	yellow	100	
+Rectangle	purple	40	45
+Rectangle	red	42	91
+Circle	yellow	63	
+Rectangle	blue	92	83
+Rectangle	green	3	93
+Circle	orange	4	
+Rectangle	red	53	62
+Circle	yellow	60	
+Rectangle	orange	91	59
+Circle	purple	93	
+Circle	orange	21	
+Circle	red	37	
+Circle	blue	17	
+Circle	red	69	
+Rectangle	yellow	48	93
